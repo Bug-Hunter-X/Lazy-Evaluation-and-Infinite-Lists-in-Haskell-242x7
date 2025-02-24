@@ -1,0 +1,1 @@
+This repository demonstrates a common Haskell error related to lazy evaluation and infinite lists. The `bug.hs` file contains code that hangs due to attempting to print an infinite list. The `bugSolution.hs` file provides a solution that addresses this problem.
